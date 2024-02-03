@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic Tac Toe Game by Aditya Prakash
 
 ## Description
 This project is a classic Tic Tac Toe game designed for web browsers. It is implemented using HTML for the structure, CSS for styling, and JavaScript for interactivity. The game allows two players to take turns marking X or O on a 3x3 grid. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
